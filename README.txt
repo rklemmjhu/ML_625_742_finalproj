@@ -6,7 +6,7 @@ Use `pip install -r requirements.txt` to install all necessary dependencies.
 
 (Make a venv if you are concerned about your own Python env)
 
-Then, Python scripts can be run as usual on the command line.
+Then, Python scripts can be run as usual on the command line, or from a Jupyter Notebook for the .ipynb files.
 
 All necessary data is packaged within the sectionN/ folders
 
