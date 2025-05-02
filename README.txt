@@ -12,8 +12,8 @@ All necessary data is packaged within the sectionN/ folders
 
 
 References for data:
-section1/Top Movies.csv: 
-section1/16k_Movies.csv:
+section1/Top Movies.csv: https://www.kaggle.com/datasets/michaelmatta0/movies-ultimate-metrics-features-and-metadata
+section1/16k_Movies.csv: https://www.kaggle.com/datasets/kashifsahil/16000-movies-1910-2024-metacritic/data
 section2/Data/Netflix Dataset.csv: https://www.kaggle.com/datasets/mayankanand2701/netflix-stock-price-dataset
 section2/Data/boxoffice_data_2024.csv: https://www.kaggle.com/datasets/harios/box-office-data-1984-to-2024-from-boxofficemojo
 section2/Data/netflix_titles.csv: https://www.kaggle.com/datasets/shivamb/netflix-shows
