@@ -12,10 +12,17 @@ All necessary data is packaged within the sectionN/ folders
 
 
 References for data:
-section2/Netflix Dataset.csv: https://www.kaggle.com/datasets/mayankanand2701/netflix-stock-price-dataset
-section2/boxoffice_data_2024.csv: https://www.kaggle.com/datasets/harios/box-office-data-1984-to-2024-from-boxofficemojo
-section2/netflix_titles.csv: https://www.kaggle.com/datasets/shivamb/netflix-shows
-section2/all_weeks_countries.csv: https://www.kaggle.com/datasets/sujaykapadnis/official-netflix-streaming-data
-section2/netflix_revenue_updated.csv: https://www.kaggle.com/datasets/mauryansshivam/netflix-ott-revenue-and-subscribers-csv-file
+section1/Top Movies.csv: 
+section1/16k_Movies.csv:
+section2/Data/Netflix Dataset.csv: https://www.kaggle.com/datasets/mayankanand2701/netflix-stock-price-dataset
+section2/Data/boxoffice_data_2024.csv: https://www.kaggle.com/datasets/harios/box-office-data-1984-to-2024-from-boxofficemojo
+section2/Data/netflix_titles.csv: https://www.kaggle.com/datasets/shivamb/netflix-shows
+section2/Data/all_weeks_countries.csv: https://www.kaggle.com/datasets/sujaykapadnis/official-netflix-streaming-data
+section2/Data/netflix_revenue_updated.csv: https://www.kaggle.com/datasets/mauryansshivam/netflix-ott-revenue-and-subscribers-csv-file
 section3/boxoffice_gross_data.csv: https://www.kaggle.com/datasets/eliasdabbas/boxofficemojo-alltime-domestic-data
 section3/MoviesOnStreamingPlatforms_updated.csv: https://www.kaggle.com/datasets/javagarm/movies-on-ott-platforms
+section4/datasets/Daily_BoxOffice.csv: https://www.boxofficemojo.com/date/?ref_=bo_nb_qy_secondarytab
+section4/datasets/Daily_Netflix.csv: https://www.nasdaq.com/market-activity/stocks/nflx/historical
+section4/datasets/Daily_SPX.csv: https://www.nasdaq.com/market-activity/index/spx/historical
+section4/datasets/Quarterly_GDP.csv:  https://fred.stlouisfed.org/series/GDP
+section4/datasets/Aggregate_All.csv: Combination of above
