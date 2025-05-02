@@ -1,0 +1,4 @@
+# sklearn fails to import on newest numpy
+numpy<1.25.0
+pandas
+scikit-learn
