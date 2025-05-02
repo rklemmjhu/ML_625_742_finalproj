@@ -2,3 +2,8 @@
 numpy<1.25.0
 pandas
 scikit-learn
+matplotlib>=3.4.0
+statsmodels>=0.13.0
+yfinance>=0.2.0
+scipy>=1.7.0
+seaborn
